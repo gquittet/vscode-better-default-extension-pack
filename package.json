@@ -19,13 +19,9 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "aaron-bond.better-comments",
         "BriteSnow.vscode-toggle-quotes",
-        "EditorConfig.EditorConfig",
-        "formulahendry.code-runner",
         "GrapeCity.gc-excelviewer",
         "Gruntfuggly.todo-tree",
-        "humao.rest-client",
         "IBM.output-colorizer",
         "ionutvmi.path-autocomplete",
         "kisstkondoros.vscode-gutter-preview",
@@ -36,8 +32,6 @@
         "streetsidesoftware.code-spell-checker",
         "streetsidesoftware.code-spell-checker-french",
         "tombonnike.vscode-status-bar-format-toggle",
-        "Tyriar.sort-lines",
-        "VisualStudioExptTeam.vscodeintellicode",
-        "wwm.better-align"
+        "Tyriar.sort-lines"
     ]
 }
