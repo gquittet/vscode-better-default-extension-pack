@@ -23,7 +23,6 @@ To fix this, I made this extension pack that add some superpower to VSCode.
 - streetsidesoftware.code-spell-checker-french
 - tombonnike.vscode-status-bar-format-toggle
 - Tyriar.sort-lines
-- usernamehw.errorlens
 - VisualStudioExptTeam.vscodeintellicode
 - wwm.better-align
 
