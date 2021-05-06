@@ -2,7 +2,7 @@
     "name": "vscode-better-default-extension-pack",
     "displayName": "Better Default Extension Pack",
     "description": "An extension pack to make your VSCode smarter by default.",
-    "version": "0.0.4",
+    "version": "0.1.0",
     "publisher": "gquittet",
     "repository": {
         "type": "git",
