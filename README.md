@@ -5,6 +5,7 @@ To fix this, I made this extension pack that add some superpower to VSCode.
 
 ## List of extensions built-in
 
+- alefragnani.bookmarks
 - BriteSnow.vscode-toggle-quotes
 - GrapeCity.gc-excelviewer
 - Gruntfuggly.todo-tree

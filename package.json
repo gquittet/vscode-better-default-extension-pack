@@ -19,6 +19,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "alefragnani.bookmarks",
         "BriteSnow.vscode-toggle-quotes",
         "GrapeCity.gc-excelviewer",
         "Gruntfuggly.todo-tree",
