@@ -21,6 +21,7 @@
     "extensionPack": [
         "alefragnani.bookmarks",
         "BriteSnow.vscode-toggle-quotes",
+        "christianalexander.flip",
         "GrapeCity.gc-excelviewer",
         "Gruntfuggly.todo-tree",
         "IBM.output-colorizer",

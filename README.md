@@ -7,6 +7,7 @@ To fix this, I made this extension pack that add some superpower to VSCode.
 
 - alefragnani.bookmarks
 - BriteSnow.vscode-toggle-quotes
+- christianalexander.flip
 - GrapeCity.gc-excelviewer
 - Gruntfuggly.todo-tree
 - IBM.output-colorizer
